@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj": {}
+    "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj",
         "projectName": "HarshdeepsBooks.Utility",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1529,6 +1529,26 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "HarshdeepsBooks.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HarshdeepsBooks.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HarshdeepsBooks.Models.dll": {}
+        }
+      },
+      "HarshdeepsBooks.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HarshdeepsBooks.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HarshdeepsBooks.Utility.dll": {}
+        }
       }
     }
   },
@@ -5792,10 +5812,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "HarshdeepsBooks.Models/1.0.0": {
+      "type": "project",
+      "path": "../HarshdeepsBooks.Models/HarshdeepsBooks.Models.csproj",
+      "msbuildProject": "../HarshdeepsBooks.Models/HarshdeepsBooks.Models.csproj"
+    },
+    "HarshdeepsBooks.Utility/1.0.0": {
+      "type": "project",
+      "path": "../HarshdeepsBooks.Utility/HarshdeepsBooks.Utility.csproj",
+      "msbuildProject": "../HarshdeepsBooks.Utility/HarshdeepsBooks.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "HarshdeepsBooks.Models >= 1.0.0",
+      "HarshdeepsBooks.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.29",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.29",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.29"
@@ -5807,11 +5839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.DataAccess\\HarshdeepsBooks.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.DataAccess\\HarshdeepsBooks.DataAccess.csproj",
       "projectName": "HarshdeepsBooks.DataAccess",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.DataAccess\\HarshdeepsBooks.DataAccess.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.DataAccess\\HarshdeepsBooks.DataAccess.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5827,7 +5859,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj"
+            },
+            "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Utility\\HarshdeepsBooks.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

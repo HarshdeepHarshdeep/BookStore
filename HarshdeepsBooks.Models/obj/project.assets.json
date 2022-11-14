@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj",
       "projectName": "HarshdeepsBooks.Models",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Models\\HarshdeepsBooks.Models.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\HarshdeepsBooks.Models\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\BookStore\\HarshdeepsBooks.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
