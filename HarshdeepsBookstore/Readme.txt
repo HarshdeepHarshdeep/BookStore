@@ -129,4 +129,11 @@ I got no errors after running the database.
 
 Time :- 1630
 
-I added the 
+I added the class file to the .models project
+
+Time :- 1700
+
+Added the migration with the PM Console.
+
+Time :- 1750
+Added the Repository and 
