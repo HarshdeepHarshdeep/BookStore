@@ -38,18 +38,7 @@ Time:- 1230
 
 15. added to the _Layout.cshtml page the additional stylesheets and scripts from the CSS_JStxt file.
 
-16. CSS:
-	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
-
-	JS:
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-	<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
-	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-	<script src="https://kit.fon
-
+16. Added the links to file.
 17. Then I tried to add the dropdown to the Navbar but Its not working properly.
 
 18. After trying to create the dropdown menu, I moved to the next part to add the projects.
@@ -59,4 +48,6 @@ Time:- 1230
 
 
 Install-Package Microsoft.EntityFramework Core.Relation-version 3.1.16
+
+
 

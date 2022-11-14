@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HarshdeepsBooks.DataAccess",
+    "\\HarshdeepsBooks.DataAccess\\Data",
+    "\\HarshdeepsBooks.Models",
+    "\\HarshdeepsBookstore"
+  ],
+  "SelectedNode": "\\HarshdeepsBooks.DataAccess\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
