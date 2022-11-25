@@ -28,3 +28,13 @@ C:\Users\W0788912\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Mode
 C:\Users\W0788912\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.csproj.CoreCompileInputs.cache
 C:\Users\W0788912\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.dll
 C:\Users\W0788912\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.pdb
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\bin\Debug\netcoreapp3.1\HarshdeepsBooks.Models.deps.json
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\bin\Debug\netcoreapp3.1\HarshdeepsBooks.Models.dll
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\bin\Debug\netcoreapp3.1\HarshdeepsBooks.Models.pdb
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.dll
+C:\Users\hp\Source\Repos\HarshdeepHarshdeep\BookStore\HarshdeepsBooks.Models\obj\Debug\netcoreapp3.1\HarshdeepsBooks.Models.pdb
