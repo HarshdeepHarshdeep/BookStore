@@ -361,22 +361,7 @@ Added the Repository files
 
 2022-11-21
 
-0259
-	-Starting part3-section1
-	-Creating CRUD for Cover type
-0307
-	-created CoverType.cs file in Models
-0723
-	-Added coverType to appDBcontext file
-0730
-	-Created ICoverTypeRepository interface for covertype
-0754
-	-created CoverTypeRepository class
-	-Added CoverType In UnitOfWork and IUnitOfWork
-0804
-	-Added new migration for CoverType "20221122010153_AddCoveTypeToDb.cs";
-	-Updated database  and the new table for cover types is created
-0844
+
 	-Created CoverTypeController with all required methods
 0907
 	-Created view for index and Upsert action methods
@@ -387,7 +372,7 @@ Added the Repository files
 	-testing done, create, edit and delete methods are working fine for CoverType
 1137
 	-created Product class in Models project and added reference to the db context file;
-	-Added migration for products table "20221122043633_AddProductToDb.cs"
+	-Added migration for products table "20221122053523_AddProductToDb.cs"
 	-products table created
 
 
