@@ -401,32 +401,4 @@ Added the Repository files
 1248
 	-Added product repo files to UnitOfWork and IUnitOfWork
 1253
-	-Build success, no errors
-
-
-
-2022-11-23
-
-
-1040
-	-Starting section 2 by adding product controller
-1053
-	-Created ProductController
-1100
-	-Created ProductVm class in ViewModel
-1113
-	-Installed package Microsoft.AspNetCore.Mvc.ViewFeatures to correctly run productVM file
-1157
-	-Added required methods of product controller and Api calls
-
-
-
-
-2022-11-22
-
-1109
-	-Created javascript file for product product.js
-1035
-	-Added link to index view of product to the dropdown of navbar
-1058
-	- Created Uprset file.
+	-Build errors
