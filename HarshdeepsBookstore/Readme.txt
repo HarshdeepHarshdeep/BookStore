@@ -395,8 +395,7 @@ Added the Repository files
 2022-11-22
 
 
-1200
-	-Added validation to the products class and migration added for it "20221122045855_AddValidationToProduct.cs"
+
 1245
 	-Created Repository and IRepository file for Product class
 1248
