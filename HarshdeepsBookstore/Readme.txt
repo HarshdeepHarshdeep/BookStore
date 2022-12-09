@@ -361,22 +361,7 @@ Added the Repository files
 
 2022-11-21
 
-0259
-	-Starting part3-section1
-	-Creating CRUD for Cover type
-0307
-	-created CoverType.cs file in Models
-0723
-	-Added coverType to appDBcontext file
-0730
-	-Created ICoverTypeRepository interface for covertype
-0754
-	-created CoverTypeRepository class
-	-Added CoverType In UnitOfWork and IUnitOfWork
-0804
-	-Added new migration for CoverType "20221122010153_AddCoveTypeToDb.cs";
-	-Updated database  and the new table for cover types is created
-0844
+
 	-Created CoverTypeController with all required methods
 0907
 	-Created view for index and Upsert action methods
@@ -387,12 +372,12 @@ Added the Repository files
 	-testing done, create, edit and delete methods are working fine for CoverType
 1137
 	-created Product class in Models project and added reference to the db context file;
-	-Added migration for products table "20221122043633_AddProductToDb.cs"
+	-Added migration for products table "20221122053523_AddProductToDb.cs"
 	-products table created
 
 
 
-2022-11-22
+2022-11-24
 
 
 
@@ -401,32 +386,4 @@ Added the Repository files
 1248
 	-Added product repo files to UnitOfWork and IUnitOfWork
 1253
-	-Build success, no errors
-
-
-
-2022-11-23
-
-
-1040
-	-Starting section 2 by adding product controller
-1053
-	-Created ProductController
-1100
-	-Created ProductVm class in ViewModel
-1113
-	-Installed package Microsoft.AspNetCore.Mvc.ViewFeatures to correctly run productVM file
-1157
-	-Added required methods of product controller and Api calls
-
-
-
-
-2022-11-22
-
-1109
-	-Created javascript file for product product.js
-1035
-	-Added link to index view of product to the dropdown of navbar
-1058
-	- Created Uprset file.
+	-Build errors
