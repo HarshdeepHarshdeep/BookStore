@@ -18,7 +18,7 @@ namespace HarshdeepsBooks.DataAccess.Repository
         }
 
 
-        public void Update(CoverTypeRepository CoverType)
+        public void Update(CoverType coverType)
         {
             var objFromDb = _db.CoverTypes.FirstOrDefault(s => s.Id == coverType.Id);
             if (objFromDb != null)
@@ -26,7 +26,6 @@ namespace HarshdeepsBooks.DataAccess.Repository
                 objFromDb.Name = coverType.Name;
             }
         }
-
-        
     }
+
 }

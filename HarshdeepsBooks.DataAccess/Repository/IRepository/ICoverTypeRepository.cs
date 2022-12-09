@@ -1,11 +1,12 @@
-﻿using System;
+﻿using HarshdeepsBooks.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace HarshdeepsBooks.DataAccess.Repository.IRepository
 {
-    public interface ICoverTypeRepository : IRepository<CoverTypeRepository>
+    public interface ICoverTypeRepository : IRepository<CoverType>
     {
-        void Update(CoverTypeRepository CoverType);
+        void Update(CoverType coverType);
     }
 }
