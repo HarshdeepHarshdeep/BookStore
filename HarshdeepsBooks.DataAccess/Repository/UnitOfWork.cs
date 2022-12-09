@@ -1,4 +1,5 @@
-﻿using HarshdeepsBooks.DataAccess.Repository.IRepository;
+﻿using HarshdeepsBooks.DataAcces.Repository.IRepository;
+using HarshdeepsBooks.DataAccess.Repository.IRepository;
 using HarshdeepsBookstore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
@@ -13,18 +14,15 @@ namespace HarshdeepsBooks.DataAccess.Repository
         {
             _db = db;
             Category = new CategoryRepository(_db);
-            SP_Call = new SP_Call(_db);
             CoverType = new CoverTypeRepository(_db);
-            Product = new ProductRepositry(_db);
+            SP_Call = new SP_Call(_db);
         }
 
         public ICategoryRepository Category { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
 
         public ISP_Call SP_Call { get; private set; }
 
-        public ICoverTypeRepository CoverType { get; private set; }
-
-        public IProductRepository Product { get; private set; }
 
         public void Dispose()
         {

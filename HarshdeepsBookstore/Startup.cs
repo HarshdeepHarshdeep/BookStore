@@ -1,3 +1,5 @@
+using HarshdeepsBooks.DataAcces.Repository.IRepository;
+using HarshdeepsBooks.DataAccess.Repository;
 using HarshdeepsBookstore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;

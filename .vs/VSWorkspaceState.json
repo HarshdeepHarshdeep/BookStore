@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\HarshdeepsBookstore",
-    "\\HarshdeepsBookstore\\Areas",
-    "\\HarshdeepsBookstore\\Areas\\Admin",
-    "\\HarshdeepsBookstore\\Areas\\Admin\\Controllers",
-    "\\HarshdeepsBookstore\\Areas\\Admin\\Views",
-    "\\HarshdeepsBookstore\\Areas\\Admin\\Views\\Category",
-    "\\HarshdeepsBookstore\\Views",
-    "\\HarshdeepsBookstore\\Views\\Shared",
-    "\\HarshdeepsBookstore\\wwwroot\\js"
+    ""
   ],
-  "SelectedNode": "\\HarshdeepsBooks.DataAccess\\Repository\\UnitOfWork.cs",
+  "SelectedNode": "\\HarshdeepsBookstore.sln",
   "PreviewInSolutionExplorer": false
 }
