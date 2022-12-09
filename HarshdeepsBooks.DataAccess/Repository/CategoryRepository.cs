@@ -23,7 +23,7 @@ namespace HarshdeepsBooks.DataAccess.Repository.IRepository
             if (objFromDb != null)
             {
                 objFromDb.Name = category.Name;
-                _db.SaveChanges();
+               
             }
         }
     }

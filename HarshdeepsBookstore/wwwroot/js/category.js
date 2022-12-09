@@ -56,5 +56,3 @@ function Delete(url) {
         }
     });
 }
-Footer
-© 2022 GitHub, Inc.
