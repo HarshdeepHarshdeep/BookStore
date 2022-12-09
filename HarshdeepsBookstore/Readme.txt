@@ -114,7 +114,101 @@ And ad Irepository folder laso to add the interfaces
 1130
 Create the Constructors and dependency injection
 
+1140
+Created CategoryRespository.cs and ICategoryRepository
+
+1200
+Modify the CategoryRespository.cs and ICategoryRepository file according to the ppt provided.
+
+it took me some time because I am facing errors while adding the data.
+
+1230
+Then I build it up which gives me no error.
+
+1240
+Added the new interface in the IRepository called ISP_Call.cs 
+
+1300
+added the method as given and instal Nuget packages for dapper.
+
+Then I star building the application but I got error in the ISP_Call.cs file 
+
+because I forget to instal the Dapper in the project which gives me the error.
+
+Error Correction :- 
+
+I right click on the text where the error is and Instal the dapper Nuget Package in the project which clear my error and I successful build the project.
+
+1330
+Moved on the Category curd Part 2.3
+
+Added the new MVC Controller- Empty Inside Area/Admin.
+
+I named It CategoryController.cs
+
+1400
+Added the new floder in the Area/View with same as controller.
+
+Add index view to the folder.
+
+Added the file which was given by professor called IndexView.txt
+
+Then I run the application.
+
+1430
+I moved the Category link in the Layout file to the Drop-down.
+
+1500
+To modify the icon of the index.cshtml file in the category section I added the icon from the font awesome, but the icon was given in the files 
+provied.
+
+I delete it and the Javascript from the Assignment 2 files folder in the wwwroot file to the js file. 
+
+In the Index.cshtml add the @section call to the Category.js script.
+
+1600 
+
+Added the edit and delete button and create new category using the Upsert action.
+
+Add the Iaction Result to the controller and Add a view 
+
+I removed the db.savechnage() method in the CategoryRepository.cs and move the _UnitOfWork.save() Method with the return.
+
+1700
+
+Added  the delete(url) function code.
+
+I build the application which gave me some errors of not using statements, after that I added them in the files in which I am facing the errors 
+.
+Then I again start building the application which successful started building and My application works.
+
+Part 2 completed.
 
 
+2022- 20-11
+Started part 3 :-
 
+1430
+created CoverType.cs file in Models
+1500
+	added ICoverTypeRepository interface for covertype
+1530
+	created CoverTypeRepository class
+	Added CoverType In UnitOfWork and IUnitOfWork
+`1600
+	Added new migration for CoverType "20221209163156_AddProductToDb].cs";
+	database  and the new table
+
+	20221209163315_AddValidationToProduct
+	20221209163315_AddValidationToProduct
+
+	Done part 5th 
+
+
+	tarting section 2 by adding product controller
+1700
+	
+
+
+	Created required methods of product controller and Api calls
 
